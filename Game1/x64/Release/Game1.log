@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+main.obj : error LNK2001: unresolved external symbol "void __cdecl graphics::createWindow(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?createWindow@graphics@@YAXHHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+C:\Users\Masatos\Desktop\Game1\Game1\bin\Game1.exe : fatal error LNK1120: 1 unresolved externals

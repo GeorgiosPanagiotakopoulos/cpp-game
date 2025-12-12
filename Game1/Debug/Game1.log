@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "void __cdecl graphics::createWindow(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?createWindow@graphics@@YAXHHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function _main
+C:\Users\Masatos\Desktop\Game1\Game1\lib\sggd.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Masatos\Desktop\Game1\Game1\Debug\Game1.exe : fatal error LNK1120: 1 unresolved externals
